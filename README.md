@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project of food recipes.This will be a simple HTML project in which i'll add recipes and their link.
